@@ -17,6 +17,9 @@ import java.util.Calendar;
 import java.util.Date;
 import java.util.List;
 
+/**
+ * @author joeri peeters
+ */
 @RestController
 @RequestMapping("/registrations")
 public class RegistrationController {
