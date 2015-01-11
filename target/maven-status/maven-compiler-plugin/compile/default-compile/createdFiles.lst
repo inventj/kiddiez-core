@@ -1,0 +1,11 @@
+be/inventj/kiddiez/controllers/RegistrationController.class
+be/inventj/kiddiez/model/Registration.class
+be/inventj/kiddiez/model/Kid.class
+be/inventj/kiddiez/model/Test.class
+be/inventj/kiddiez/model/User.class
+be/inventj/kiddiez/config/CORSFilter.class
+be/inventj/kiddiez/controllers/LoginController.class
+be/inventj/kiddiez/service/JsonWebTokenService.class
+be/inventj/kiddiez/aspect/VerifyTokenAspect.class
+be/inventj/kiddiez/config/KiddiezInitializer.class
+be/inventj/kiddiez/config/WebConfig.class
